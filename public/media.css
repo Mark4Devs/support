@@ -1,0 +1,467 @@
+@media screen and (max-width: 1821px){
+    .banner-container {
+        background-position-y: 85vh;
+    }
+    .container-activity {
+        padding-top: 8%;
+    }
+}
+@media screen and (max-width: 1681px){
+    .banner-container {
+        background-position-y: 82vh;
+    }
+}
+@media screen and (max-width: 1537px){
+    .banner-container {
+        background-position-y: 85vh;
+    }
+    .info p{
+        font-size: 1vw;
+    }
+    .info span{
+        font-size: 1vw;
+    }
+}
+@media screen and (max-width: 1481px){
+    .banner-container {
+        height: 40vh;
+    }
+}
+@media screen and (max-width: 1367px){
+    .banner-container {
+        background-position-y: 89vh;
+    }
+}
+@media screen and (max-width: 1281px){
+    .navigation {
+        width: 52%;
+    }
+    .navbar {
+        padding-left: 4%;
+        padding-right: 9%;
+    }
+    .section p{
+    
+        font-size: 1.1vw;   
+    }
+    .dropdown a{
+        font-size: 1vw;
+        padding: 7px 12px 7px 12px;
+    }
+    .dropdown-menu.show{
+        min-width: 52px !important;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 1181px){
+    .banner-container {
+        background-position-y: 83vh;
+    }  
+}
+@media screen and (max-width: 1025px){
+    .banner-container {
+        background-position-y: 73vh;
+    }
+    .dropdown-menu.show {
+        min-width: 47px !important;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 961px){
+    .navbar-light .navbar-toggler-icon {
+        width: 24px;
+        height: 24px;
+        background-size: cover;
+        /* background-attachment: fixed; */
+    }
+    .navbar-toggler{
+        box-shadow: 1px 4px !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0px 0px !important;
+    }
+    .navbar{
+        border-bottom: 1px solid #c1c1c1;
+    }
+    .banner-container {
+        background-position-y: 82vh;
+    }
+    .video-section {
+        width: 47%;
+        margin: 0 auto;
+    }
+    section {
+        width: 47%;
+    }
+    .team-container {
+        width: 47%;
+    }
+    .activity-container {
+        width: 47%;
+    }
+    .partners-container {
+        width: 47%;
+    }
+    .buttons-container {
+        width: 47%;
+    }
+    .info h5 {
+        font-size: 1.5vw;
+        margin-bottom: 4%;
+    }
+    .contacts-container {
+        width: 47%;  
+    }
+    .section p, .section span{
+        font-size: 1.2vw;
+    }
+    .info:last-of-type {
+        width: 27%;
+    }
+    .description p {
+        font-size: 1.2vw;
+    }
+    .description {
+        width: 47%;
+    }
+    .activity-items-container{
+        width: 47%;
+    }
+    .item-activity {
+        width: 30%;
+    }
+}
+@media screen and (max-width: 901px){
+    .dropdown-menu.show {
+        min-width: 47px !important;
+    }
+    .dropdown a{
+        font-size: 1.2vw;
+    }
+    .link {
+        font-size: 1.5vw;
+    }
+}
+@media screen and (max-width: 854px){
+    .container-activity {
+        padding-top: 12%;
+    }
+    .banner-container {
+        background-position-y: 92vh;
+    }
+}
+@media screen and (max-width: 801px){
+    .dropdown-menu.show {
+        min-width: 45px !important;
+    }
+    .banner-container {
+        height: 50vh;
+        background-position-y: 95vh;
+    }
+    .heading{
+        font-size: 2.5vw;
+    }
+    .section p{
+        font-size: 1.5vw;
+    }
+    .team-item {
+        width: 29%;
+    }
+    .activity-container{
+        flex-wrap: wrap;
+    }
+    .activity-item{
+        width: 38%;
+    }
+    .parnters img {
+        width: 50%;
+    }
+    .info{
+        width: 100%;
+        margin-bottom: 5%;
+    }
+    .info h5 {
+        font-size: 2vw;
+        margin-bottom: 4%;
+    }
+    .contacts-container {
+        width: 47%;
+        flex-wrap: wrap;
+    }
+    .section p, .section span {
+        font-size: 1.4vw;
+    }
+    .info:last-of-type{
+        width: 100%;
+    }
+    .activity-item h5 {
+        font-size: 1.3vw;
+    }
+    .team-item h4 {
+        font-size: 1.8vw;
+    }
+    .description p {
+        font-size: 1.4vw;
+    }
+    .item-activity h5{
+        font-size: 2vw;
+    }
+}
+@media screen and (max-width: 701px){
+    .navbar-light .navbar-toggler-icon {
+        width: 18px;
+        height: 20px;
+    }
+    .dropdown a {
+        font-size: 1.4vw;
+    }
+    .dropdown-menu.show {
+        min-width: 44px !important;
+    }
+    .link {
+        font-size: 2vw;
+    }
+    .section p, .section span {
+        font-size: 1.6vw;
+    }
+    .heading{
+        font-size: 3vw;
+    }
+    .team-item h4 {
+        font-size: 2vw;
+    }
+    .activity-item h5 {
+        font-size: 1.6vw;
+    }
+    .parnters img {
+        width: 65%;
+    }
+    .info h5 {
+        font-size: 2.5vw;
+        margin-bottom: 4%;
+    }
+    .description h3 {
+        font-size: 3vw;
+    }
+    .description p {
+        font-size: 1.6vw;
+    }
+    .item-activity {
+        width: 45%;
+    }
+}
+@media screen and (max-width: 601px){
+    .link {
+        font-size: 2.2vw;
+    }
+    .dropdown a {
+        font-size: 1.8vw;
+    }
+    .dropdown-menu.show {
+        min-width: 48.5px !important;
+    }
+    .banner-container {
+        height: 21vh;
+        background-position-y: 71vh;
+    }
+    .video-section {
+        width: 60%;
+        margin: 0 auto;
+    }
+    .heading {
+        font-size: 4vw;
+    }
+    .section p, .section span {
+        font-size: 2vw;
+    }
+    section {
+        width: 55%;
+    }
+    .team-container {
+        width: 55%;
+    }
+    .activity-container {
+        width: 55%;
+    }
+    .activity-item {
+        width: 44%;
+    }
+    .activity-item h5 {
+        font-size: 2vw;
+    }
+    .buttons-container {
+        width: 55%;
+    }
+    .buttons-container a {
+        font-size: 3vw;
+    }
+    .info h5 {
+        font-size: 3vw;
+        margin-bottom: 4%;
+    }
+    .container-activity {
+        padding-top: 15%;
+    }
+    .description h3 {
+        font-size: 4vw;
+    }
+    .description {
+        width: 55%;
+    }
+    .description p {
+        font-size: 2vw;
+    }
+    .contacts-container {
+        width: 55%;
+    }
+}
+@media screen and (max-width: 501px){
+    .dropdown a {
+        font-size: 2vw;
+    }
+    .video-section {
+        width: 79%;
+        margin: 0 auto;
+    }
+    section {
+        width: 79%;
+    }
+    .section p, .section span {
+        font-size: 2.6vw;
+    }
+    .dropdown-menu.show {
+        min-width: 45px !important;
+    }
+    .link {
+        font-size: 2.5vw;
+    }
+    .team-container {
+        width: 79%;
+    }
+    .team-item h4 {
+        font-size: 2.6vw;
+    }
+    .heading {
+        font-size: 4.5vw;
+    }
+    .activity-container {
+        width: 79%;
+    }
+    .activity-item h5 {
+        font-size: 2.6vw;
+    }
+    .partners-container {
+        width: 79%;
+    }
+    .buttons-container {
+        width: 79%;
+    }
+    .buttons-container a {
+        font-size: 3.5vw;
+    }
+    .info h5 {
+        font-size: 3.5vw;
+        margin-bottom: 4%;
+    }
+    .description h3 {
+        font-size: 4.5vw;
+    }
+    .description p {
+        font-size: 2.6vw;
+    }
+    .description {
+        width: 79%;
+    }
+    .activity-items-container {
+        width: 79%;
+    }
+    .item-activity {
+        width: 33%;
+    }
+    .item-activity h5 {
+        font-size: 2.6vw;
+    }
+}
+@media screen and (max-width: 426px){
+    .banner-container {
+        height: 25vh;
+    }
+    .dropdown a {
+        font-size: 2.3vw;
+    }
+    .dropdown-menu.show {
+        min-width: 46px !important;
+    }
+    .link {
+        font-size: 2.7vw;
+    }
+}
+@media screen and (max-width: 413px){
+    .link {
+        font-size: 2.9vw;
+    }
+    .video-section {
+        width: 88%;
+        margin: 0 auto;
+    }
+    section {
+        width: 88%;
+    }
+    .heading {
+        font-size: 4.7vw;
+    }
+    .section p, .section span {
+        font-size: 2.8vw;
+    }
+    .team-container {
+        width: 88%;
+    }
+    .team-item h4 {
+        font-size: 2.8vw;
+    }
+    .activity-container {
+        width: 88%;
+    }
+    .activity-item h5 {
+        font-size: 2.8vw;
+    }
+    .partners-container {
+        width: 88%;
+        margin: 0 auto;
+    }
+    .buttons-container {
+        width: 88%;
+    }
+    .buttons-container a {
+        font-size: 3.8vw;
+    }
+    .info h5 {
+        font-size: 3.8vw;
+        margin-bottom: 4%;
+    }
+    .contacts-container {
+        width: 88%;
+    }
+    .container-activity {
+        padding-top: 21%;
+    }
+    .description {
+        width: 88%;
+    }
+    .description h3 {
+        font-size: 4.7vw;
+    }
+    .activity-items-container {
+        width: 88%;
+    }
+    .item-activity h5 {
+        font-size: 2.8vw;
+    }
+}
+@media screen and (max-width: 400px){
+    .dropdown-menu.show {
+        min-width: 44px !important;
+    }
+}
+
+
